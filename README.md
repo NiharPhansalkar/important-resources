@@ -60,6 +60,14 @@ https://github.com/markodenic/web-development-resources
 
 https://www.postgresqltutorial.com/
 
+#### POSTGRES SAMPLE DATABASE
+
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+
+#### POSTGRES PSQL CAN'T CONNECT TO SERVER
+
+https://stackoverflow.com/questions/31645550/postgresql-why-psql-cant-connect-to-server
+
 # _MISCELLANEOUS_
 
 #### CHEAT SHEETS
