@@ -8,7 +8,7 @@ _# MANY LANGUAGE RESOURCES_
 
 `https://progdisc.club/resources/#bash`
 
-_# LINUX_
+# _LINUX_
 
 ## BEGINNER INTRO TO LINUX
 
@@ -38,7 +38,7 @@ _# LINUX_
 
 `https://github.com/amix/vimrc`
 
-_# WEB DEVELOPMENT_
+# _WEB DEVELOPMENT_
 
 ## FLEXBOX FROGGY CSS
 
@@ -60,7 +60,7 @@ _# WEB DEVELOPMENT_
 
 `https://www.postgresqltutorial.com/`
 
-_# MISCELLANEOUS_
+# _MISCELLANEOUS_
 
 ## CHEAT SHEETS
 
