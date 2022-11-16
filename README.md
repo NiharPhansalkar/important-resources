@@ -38,6 +38,10 @@ http://www.yolinux.com/TUTORIALS/GDB-Commands.html
 
 https://github.com/amix/vimrc
 
+#### COPY FILES FROM ROOT TO ANOTHER USER
+
+https://unix.stackexchange.com/questions/472996/copying-a-file-from-root-to-home-directory
+
 # _WEB DEVELOPMENT_
 
 #### FLEXBOX FROGGY CSS
