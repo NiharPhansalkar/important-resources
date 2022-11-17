@@ -26,6 +26,10 @@ https://www.makeuseof.com/linux-bash-terminal-shortcuts/
 
 https://www.gnu.org/software/bash/manual/bash.html
 
+#### FIND AND LOCATE IN LINUX
+
+https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux
+
 #### UNIX KOANS OF MASTER FOO
 
 http://catb.org/~esr/writings/unix-koans/index.html
@@ -41,6 +45,10 @@ https://github.com/amix/vimrc
 #### COPY FILES FROM ROOT TO ANOTHER USER
 
 https://unix.stackexchange.com/questions/472996/copying-a-file-from-root-to-home-directory
+
+#### CHANGE PROMPT COLOR FOR BASH
+
+https://askubuntu.com/questions/517677/how-do-i-get-a-colored-bash
 
 # _WEB DEVELOPMENT_
 
