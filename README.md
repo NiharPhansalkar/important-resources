@@ -86,3 +86,6 @@ https://stackoverflow.com/questions/31645550/postgresql-why-psql-cant-connect-to
 
 https://cheatography.com/
 
+#### CREATE BEAUTIFUL SNIPPETS
+
+https://carbon.now.sh/
