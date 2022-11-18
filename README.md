@@ -2,13 +2,21 @@
 
 This is a collection of resources that I have gathered over the years and am storing for future reference. Feel free to use any of these resources to boost your learning!
 
+***
+
 # _MANY LANGUAGE RESOURCES_
 
 #### PROGRAMMING DISCUSSION DISCORD LIST
 
 https://progdisc.club/resources/#bash
 
+***
+
 # _LINUX_
+
+#### BASH REFERENCE MANUAL
+
+https://www.gnu.org/software/bash/manual/bash.html
 
 #### BEGINNER INTRO TO LINUX
 
@@ -22,9 +30,9 @@ https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
 
 https://www.makeuseof.com/linux-bash-terminal-shortcuts/
 
-#### BASH REFERENCE MANUAL
+#### .sh AND SCRIPT FILES
 
-https://www.gnu.org/software/bash/manual/bash.html
+https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension
 
 #### FIND AND LOCATE IN LINUX
 
@@ -33,10 +41,6 @@ https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-s
 #### UNIX KOANS OF MASTER FOO
 
 http://catb.org/~esr/writings/unix-koans/index.html
-
-#### GDB COMMAND CHEAT SHEET
-
-http://www.yolinux.com/TUTORIALS/GDB-Commands.html
 
 #### ULTIMATE .VIMRC
 
@@ -49,6 +53,8 @@ https://unix.stackexchange.com/questions/472996/copying-a-file-from-root-to-home
 #### CHANGE PROMPT COLOR FOR BASH
 
 https://askubuntu.com/questions/517677/how-do-i-get-a-colored-bash
+
+***
 
 # _WEB DEVELOPMENT_
 
@@ -80,6 +86,8 @@ https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-
 
 https://stackoverflow.com/questions/31645550/postgresql-why-psql-cant-connect-to-server
 
+***
+
 # _MISCELLANEOUS_
 
 #### CHEAT SHEETS
@@ -89,3 +97,9 @@ https://cheatography.com/
 #### CREATE BEAUTIFUL SNIPPETS
 
 https://carbon.now.sh/
+
+#### GDB COMMAND CHEAT SHEET
+
+http://www.yolinux.com/TUTORIALS/GDB-Commands.html
+
+***
