@@ -34,6 +34,10 @@ https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension
 
 https://stackoverflow.com/questions/41748466/why-does-a-space-in-a-variable-assignment-give-an-error-in-bash
 
+#### GLOBS IN BASH 
+
+http://mywiki.wooledge.org/glob
+
 #### FIND AND LOCATE IN LINUX
 
 https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux
