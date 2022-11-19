@@ -18,13 +18,9 @@ https://progdisc.club/resources/#bash
 
 https://www.gnu.org/software/bash/manual/bash.html
 
-#### BEGINNER INTRO TO LINUX
+#### EVERYTHING ABOUT BASH SCIRPTING AND LINUX
 
-https://tldp.org/LDP/intro-linux/html/
-
-#### BEGINNER BASH GUIDE
-
-https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+https://linuxcommand.org/
 
 #### BASH TERMINAL SHORTCUTS
 
@@ -33,6 +29,10 @@ https://www.makeuseof.com/linux-bash-terminal-shortcuts/
 #### .sh AND SCRIPT FILES
 
 https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension
+
+#### SPACES AND ASSIGNMENT IN BASH SCRIPTS
+
+https://stackoverflow.com/questions/41748466/why-does-a-space-in-a-variable-assignment-give-an-error-in-bash
 
 #### FIND AND LOCATE IN LINUX
 
